@@ -3,4 +3,4 @@ function paragraphSelector() {
   return $('img');
 }
 
-function 
+function
